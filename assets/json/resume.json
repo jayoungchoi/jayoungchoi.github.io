@@ -1,24 +1,23 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Ja Young Choi",
+    "label": "Postdoctoral Scholar",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "jayoung.choi@northwestern.edu",
+    "url": "https://jayoungchoi.github.io/",
+    "summary": "studies speech perception using behavioral, computational and neuroimaging methods",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "2240 Campus Dr",
+      "postalCode": "IL 60208",
+      "city": "Evaston",
       "countryCode": "US",
-      "region": "California"
+      "region": "Illinois"
     },
     "profiles": [
       {
         "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "username": "jayoung_choi",
+        "url": "https://twitter.com/jayoung_choi"
       }
     ]
   },
@@ -47,15 +46,24 @@
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "Harvard University",
+      "location": "Cambridge, Massachusetts, USA",
+      "area": "Program in Speech and Hearing Bioscience and Technology (SHBT)",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
+      "startDate": "2016-08-01",
+      "endDate": "2022-05-01",
       "score": "10",
-      "courses": ["Theory of Relativity"]
+      "courses": ["Dissertation: The cognitive and neural bases of processing talker variability in speech perception"]
+    },
+    {
+      "institution": "Rice University",
+      "location": "Houston, TX, USA",
+      "area": "Cognitive Science, Linguistics, Psychology",
+      "studyType": "BA",
+      "startDate": "2010-08-01",
+      "endDate": "2014-05-01",
+      "score": "10",
+      "courses": 
     }
   ],
   "awards": [
