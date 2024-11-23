@@ -9,17 +9,14 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>2240 Campus Dr</p>
+    <p>Evanston IL 60208, USA</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi! I am a postdoctoral scholar at [SoundBrain Lab](https://soundbrainlab.northwestern.edu/) (PI: Dr. Bharath Chandraseakaran) at Northwestern University. I use a combination of behavioral, computational and neuroimaging methods to study how the human brain represents and processes speech sounds, and how the speech perception system is intertwined with our general cognitive abilities.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Before coming to Northwestern University, I received my PhD through Harvard SHBT (Speech and Hearing Bioscience and Technology) program under the mentorship of [Dr. Tyler Perrachione](https://sites.bu.edu/cnrlab/). 
