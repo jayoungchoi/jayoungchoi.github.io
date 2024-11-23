@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: jycprofile.png
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>2240 Campus Dr</p>
