@@ -12,9 +12,9 @@ profile:
     <p>2240 Campus Dr</p>
     <p>Evanston IL 60208, USA</p>
 
-news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+news: false # includes a list of news items
+selected_papers: fase # includes a list of papers marked as "selected={true}"
+social: false # includes social icons at the bottom of the page
 ---
 
 Hi! I am a postdoctoral scholar at [SoundBrain Lab](https://soundbrainlab.northwestern.edu/) (PI: Dr. Bharath Chandraseakaran) at Northwestern University. I use a combination of behavioral, computational and neuroimaging methods to study how the human brain represents and processes speech sounds, and how the speech perception system is intertwined with our general cognitive abilities.
