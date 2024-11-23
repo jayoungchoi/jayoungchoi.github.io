@@ -78,12 +78,12 @@
     },
     {
       "title": "Kwanjeong Educational Scholarship ($30,000/year)",
-      "date": "2016 - 2020",
+      "date": [["2016","2020"]],
       "awarder": "Kwanjeong Educational Foundation",
     },
     {
       "title": "President's Honor Roll",
-      "date": "2011 - 2014",
+      "date": [["2011","2014"]],
       "awarder": "Rice University",
     },
     {
@@ -137,7 +137,7 @@
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "Korean",
       "fluency": "Native speaker",
       "icon": ""
     },
@@ -145,21 +145,17 @@
       "language": "English",
       "fluency": "Fluent",
       "icon": ""
-    }
-  ],
-  "interests": [
+    },
     {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
+      "language": "Mandarin Chinese",
+      "fluency": "Intermediate",
+      "icon": ""
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Beginner",
+      "icon": ""
+    },
   ],
   "references": [
     {
@@ -171,16 +167,6 @@
       "name": "Professor John Doe",
       "icon": "fa-solid fa-thumbtack",
       "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
-  ],
-  "projects": [
-    {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
     }
   ]
 }
