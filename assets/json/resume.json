@@ -47,7 +47,17 @@
   "education": [
     {
       "institution": "Harvard University",
-      "location": "Cambridge, Massachusetts, USA",
+      "location": "Cambridge, MA, USA",
+      "area": "Program in Speech and Hearing Bioscience and Technology (SHBT)",
+      "studyType": "PhD",
+      "startDate": "2016-08-01",
+      "endDate": "2022-05-01",
+      "score": "10",
+      "courses": ["Dissertation: The cognitive and neural bases of processing talker variability in speech perception"]
+    },
+    {
+      "institution": "Harvard University",
+      "location": "Cambridge, MA, USA",
       "area": "Program in Speech and Hearing Bioscience and Technology (SHBT)",
       "studyType": "PhD",
       "startDate": "2016-08-01",
