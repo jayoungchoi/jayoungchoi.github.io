@@ -46,8 +46,8 @@
   ],
   "education": [
     {
-      "institution": "Harvard University",
-      "location": "Cambridge, MA, USA",
+      "institution": "Rice University",
+      "location": "Houston, TX, USA",
       "area": "Program in Speech and Hearing Bioscience and Technology (SHBT)",
       "studyType": "PhD",
       "startDate": "2016-08-01",
@@ -58,66 +58,44 @@
     {
       "institution": "Harvard University",
       "location": "Cambridge, MA, USA",
-      "area": "Program in Speech and Hearing Bioscience and Technology (SHBT)",
-      "studyType": "PhD",
-      "startDate": "2016-08-01",
-      "endDate": "2022-05-01",
+      "area": "Cognitive Science, Linguistics, Psychology",
+      "studyType": "BA",
+      "startDate": "2010-08-01",
+      "endDate": "2014-05-01",
       "score": "10",
-      "courses": ["Dissertation: The cognitive and neural bases of processing talker variability in speech perception"]
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
+      "title": "Best Student Paper in Speech Communication – First Place for ASA 2020",
+      "date": "2020",
+      "awarder": "Acoustical Society of America",
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
+      "title": "International Phonetic Association Student Award for ICPhS 2019",
+      "date": "2019",
+      "awarder": "International Phonetic Assocation",
     },
     {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
+      "title": "Kwanjeong Educational Scholarship ($30,000/year)",
+      "date": "2016 - 2020",
+      "awarder": "Kwanjeong Educational Foundation",
     },
     {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
+      "title": "President's Honor Roll",
+      "date": "2011 - 2014",
+      "awarder": "Rice University",
     },
     {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
+      "title": "Houston Junior Chamber of Commerce Award: Study in China Scholarship",
+      "date": "2012",
+      "awarder": "Houston Junior Chamber of Commerce",
     },
     {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
-    }
+      "title": "Center for the Study of Languages Study Abroad Scholarship",
+      "date": "2012",
+      "awarder": "Rice University",
+    },
   ],
   "publications": [
     {
