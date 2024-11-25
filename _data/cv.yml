@@ -61,16 +61,12 @@
         - President's Honor Roll, Rice University
         
 - title: Publications
-  type: nested_list
+  type: list
   contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+    - "Choi, J. Y., Kou, R.S.N., & Perrachione, T.K. (2022). Distinct mechanisms for talker adaptation operate in parallel on different timescales. Psychonomic Bulletin & Review, 29, 627‑634."
+    - "Choi, J. Y., & Perrachione, T.K. (2019). Noninvasive neurostimulation of left temporal lobe disrupts rapid talker adaptation in speech processing. Brain and Language, 196, 104655."
+    - "Choi, J. Y., & Perrachione, T.K. (2019). Time and information in perceptual adaptation to speech. Cognition, 192, 103982."
+    - "Choi, J. Y., Hu, E.R., & Perrachione, T.K. (2018). Varying acoustic‑phonemic ambiguity reveals that talker normalization is obligatory in speech processing. Attention, Perception, & Psychophysics, 80(3), 784‑797."
 
 - title: Other Interests
   type: list
