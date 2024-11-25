@@ -13,7 +13,7 @@ profile:
     <p>Evanston IL 60208, USA</p>
 
 news: false # includes a list of news items
-selected_papers: fase # includes a list of papers marked as "selected={true}"
+selected_publications: fase # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
