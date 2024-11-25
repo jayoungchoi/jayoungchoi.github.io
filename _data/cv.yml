@@ -1,32 +1,19 @@
-- title: General Information
-  type: map
-  contents:
-    - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
-
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: PhD - Program in Speech & Hearing Bioscience & Technology (SHBT)
+      institution: Harvard University, Cambridge, MA, USA
+      year: 2022
       description:
-        - Description 1.
-        - Description 2.
+        - Mentor: Dr. Tyler Perrachione
+        - Dissertation: "The cognitive and neural bases of processing talker variability in speech perception."
         - title: Description 3.
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+    - title: BA - Cognitive Science, Linguistics, Psychology
+      institution: Rice University, Houston, TX, USA
+      year: 2014
 
 - title: Experience
   type: time_table
