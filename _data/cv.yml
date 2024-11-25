@@ -38,14 +38,28 @@
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2020
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
+        - Best Student Paper in Speech Communication ‑ First Place for ASA 2020
+    - year: 2019
       items:
-        - Max Planck Medal
-
+        - International Phonetic Association Student Award for ICPhS 2019
+    - year: 2016 - 2020
+      items:
+        - Kwanjeong Educational Scholarship ($30,000/year)
+    - year: 2019
+      items:
+        - International Phonetic Association Student Award for ICPhS 2019
+    - year: 2012
+      items:
+        - Houston Junior Chamber of Commerce Award: Study in China Scholarship
+    - year: 2012
+      items:
+        - Center for the Study of Languages Study Abroad Scholarship
+    - year: 2011-2014
+      items:
+        - President's Honor Roll, Rice University
+        
 - title: Academic Interests
   type: nested_list
   contents:
