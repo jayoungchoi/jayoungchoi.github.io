@@ -60,7 +60,7 @@
       items:
         - President's Honor Roll, Rice University
         
-- title: Academic Interests
+- title: Publications
   type: nested_list
   contents:
     - title: Topic 1.
