@@ -18,7 +18,7 @@
       institution: SoundBrain Lab, Northwestern University
       year: 2023.11 - Current
       
-    - title: Graduate Student
+    - title: PhD Student
       institution: Communication Neuroscience Research Lab, Boston University
       year: 2016 - 2022
 
@@ -67,6 +67,11 @@
     - <u>Choi, J. Y.</u>, & Perrachione, T.K. (2019). Noninvasive neurostimulation of left temporal lobe disrupts rapid talker adaptation in speech processing. Brain and Language, 196, 104655.
     - <u>Choi, J. Y.</u>, & Perrachione, T.K. (2019). Time and information in perceptual adaptation to speech. Cognition, 192, 103982.
     - <u>Choi, J. Y.</u>, Hu, E.R., & Perrachione, T.K. (2018). Varying acoustic‑phonemic ambiguity reveals that talker normalization is obligatory in speech processing. Attention, Perception, & Psychophysics, 80(3), 784‑797.
+
+- title: Conference Proceedings
+  type: list
+  contents:
+    - <b>Choi, J. Y.</b>, & Perrachione, T.K. (2019). Rapid adaptation to talker‑specific phonetic detail is disrupted by noninvasive brain stimulation. 19th International Congress of Phonetic Sciences (Melbourne, August 2019).
 
 - title: Conference Presentations
   type: list
