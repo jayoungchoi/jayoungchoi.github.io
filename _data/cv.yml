@@ -6,7 +6,7 @@
       year: 2022
       description:
         - Dissertation "The cognitive and neural bases of processing talker variability in speech perception."
-        - Mentored by Dr. Tyler Perrachione
+        - "Advisor: Dr. Tyler Perrachione"
     - title: BA - Cognitive Science, Linguistics, Psychology
       institution: Rice University, Houston, TX, USA
       year: 2014
@@ -15,24 +15,24 @@
   type: time_table
   contents:
     - title: Postdoctoral Scholar
-      institution: SoundBrain Lab, Northwestern University
+      institution: SoundBrain Lab, Northwestern University (PI: Dr. Bharath Chandrasekaran)
       year: 2023.11 - Current
       
     - title: PhD Student
-      institution: Communication Neuroscience Research Lab, Boston University
+      institution: Communication Neuroscience Research Lab, Boston University (PI: Dr. Tyler Perrachione)
       year: 2016 - 2022
 
     - title: Research Analyst
-      institution: Communication Neuroscience Research Lab, Boston University
+      institution: Communication Neuroscience Research Lab, Boston University (PI: Dr. Tyler Perrachione)
       year: 2014 - 2016
 
     - title: Research Assistant
-      institution: Child Language Acquisition Lab, Rice University
+      institution: Child Language Acquisition Lab, Rice University (PI: Dr. Özge Gurcanlı)
       year: 2014
       description:
 
     - title: Research Assistant
-      institution: Schnur Lab, Rice University
+      institution: Schnur Lab, Rice University (PI: Dr. Tatiana Schnur)
       year: 2012 - 2014
 
 - title: Honors and Awards
@@ -71,7 +71,7 @@
 - title: Conference Proceedings
   type: list
   contents:
-    - <b>Choi, J. Y.</b>, & Perrachione, T.K. (2019). Rapid adaptation to talker‑specific phonetic detail is disrupted by noninvasive brain stimulation. 19th International Congress of Phonetic Sciences (Melbourne, August 2019).
+    - <u>Choi, J. Y.</u>, & Perrachione, T.K. (2019). Rapid adaptation to talker‑specific phonetic detail is disrupted by noninvasive brain stimulation. 19th International Congress of Phonetic Sciences (Melbourne, August 2019).
 
 - title: Conference Presentations
   type: list
