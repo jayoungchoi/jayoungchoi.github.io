@@ -15,34 +15,23 @@
   type: time_table
   contents:
     - title: Postdoctoral Scholar
-      institution: SoundBrain Lab, Northwestern University 
-      description: 
-        - "PI: Dr. Bharath Chandrasekaran"
+      institution: "SoundBrain Lab, Northwestern University (PI: Dr. Bharath Chandrasekaran)"
       year: 2023.11 - Current
       
     - title: PhD Student
-      institution: Communication Neuroscience Research Lab, Boston University 
-      description: 
-        - "PI: Dr. Tyler Perrachione"
+      institution: "Communication Neuroscience Research Lab, Boston University (PI: Dr. Tyler Perrachione)"
       year: 2016 - 2022
 
     - title: Research Analyst
-      institution: Communication Neuroscience Research Lab, Boston University 
-      description:
-        - "PI: Dr. Tyler Perrachione"
+      institution: "Communication Neuroscience Research Lab, Boston University (PI: Dr. Tyler Perrachione)"
       year: 2014 - 2016
 
     - title: Research Assistant
-      institution: Child Language Acquisition Lab, Rice University
-      description:
-        - "PI: Dr. Özge Gurcanlı"
+      institution: "Child Language Acquisition Lab, Rice University (PI: Dr. Özge Gurcanlı)"
       year: 2014
-      description:
 
     - title: Research Assistant
-      institution: Schnur Lab, Rice University
-      description:
-        - "PI: Dr. Tatiana Schnur"
+      institution: "Schnur Lab, Rice University (PI: Dr. Tatiana Schnur)"
       year: 2012 - 2014
 
 - title: Honors and Awards
