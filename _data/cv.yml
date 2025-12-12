@@ -15,8 +15,12 @@
   type: time_table
   contents:
     - title: Postdoctoral Scholar
+      institution: "STEPP Lab, Boston University (PI: Dr. Cara Stepp)"
+      year: 2025.11 - Current
+      
+    - title: Postdoctoral Scholar
       institution: "SoundBrain Lab, Northwestern University (PI: Dr. Bharath Chandrasekaran)"
-      year: 2023.11 - Current
+      year: 2023 - 2025
       
     - title: PhD Student
       institution: "Communication Neuroscience Research Lab, Boston University (PI: Dr. Tyler Perrachione)"
@@ -65,7 +69,7 @@
 - title: Publications
   type: list
   contents:
-    - <u>Choi, J. Y.</u>, Xiong, S., McHaney, J. R., & Chandrasekaran, B. (submitted). Reverse hierachical processing of speech in talker identification.
+    - <u>Choi, J. Y.</u>, Xiong, S., McHaney, J. R., & Chandrasekaran, B. (in revision). Reverse hierachical processing of speech in talker identification.
     - Liu, Y., <u>Choi, J. Y.</u>, & Perrachione, T.K. (in press). Systematic bias in surface area asymmetry measurements from automatic cortical parcellations. Brain Structure & Function.
     - <u>Choi, J. Y.</u>, Kou, R.S.N., & Perrachione, T.K. (2022). Distinct mechanisms for talker adaptation operate in parallel on different timescales. Psychonomic Bulletin & Review, 29, 627‑634.
     - <u>Choi, J. Y.</u>, & Perrachione, T.K. (2019). Noninvasive neurostimulation of left temporal lobe disrupts rapid talker adaptation in speech processing. Brain and Language, 196, 104655.
