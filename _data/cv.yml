@@ -38,6 +38,16 @@
       institution: "Schnur Lab, Rice University (PI: Dr. Tatiana Schnur)"
       year: 2012 - 2014
 
+- title: Research Funding
+  type: time_table
+  contents:
+    - year: 2026
+      items:
+        - "New Investigators Research Grant, American Speech-Language-Hearing Foundation"
+    - year: 2026
+      items:
+        - "Student Research Grant (Postdoc), Sargent College of Health & Rehabilitation Sciences, Boston University"
+
 - title: Honors and Awards
   type: time_table
   contents:
@@ -72,6 +82,8 @@
 - title: Publications
   type: list
   contents:
+    - <u>Choi, J. Y.,</u>, Edelstein, I., Abur, D>, & Stepp, C.E. (submitted). Fundamental frequency changes at syntactic boundaries and listener perception of monopitch in Parkinson's disease.
+    - <u>Choi, J. Y.</u>, Dragicevic, D.A., Li, S.H., Davis, R.A., Siedman, K.A., Toglia, D., Dunsmuir, C.J., Rojas, J.M., Estrada, A., Balz, M.A., Perkell J.S., & Stepp, C.E. (in revision). Articulatory changes during clear speech in people with Parkinson's disease.
     - <u>Choi, J. Y.</u>, Xiong, S., McHaney, J. R., & Chandrasekaran, B. (2026). Reverse hierachical processing of speech in talker identification. European Journal of Neuroscience, 63(8), e70520.
     - Liu, Y., <u>Choi, J. Y.</u>, & Perrachione, T.K. (2025). Systematic bias in surface area asymmetry measurements from automatic cortical parcellations. Brain Structure & Function, 230(7), 126.
     - <u>Choi, J. Y.</u>, Kou, R.S.N., & Perrachione, T.K. (2022). Distinct mechanisms for talker adaptation operate in parallel on different timescales. Psychonomic Bulletin & Review, 29, 627‑634.
